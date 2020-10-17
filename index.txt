@@ -22,6 +22,7 @@
         <li>图片</li>
         <li>文库</li>
         <li>贴吧</li>
+	<li>地图</li>
 	<li>更多</li>
     </ul>
 </body>

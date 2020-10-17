@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .title, .title li{
+            list-style: none;
+        }
+        .title li{
+            margin: 0 10px;
+        }
+    </style>
+</head>
+<body>
+    <ul class="title">
+        <li>首页</li>
+        <li>网页</li>
+        <li>资讯</li>
+        <li>视频</li>
+        <li>图片</li>
+        <li>文库</li>
+        <li>贴吧</li>
+    </ul>
+</body>
+</html>
